@@ -8,7 +8,7 @@ terraform deploy button example
         all the text and instructions for the document
 
   <a 
-          href="https://cloud.oracle.com/resourcemanager/stacks/create&zipUrl=https://objectstorage.eu-zurich-1.oraclecloud.com/n/zrp49lohgrnl/b/DemoBucket/o/terraformfilesterraformfiles.zip" target="nofollow">
+          href="https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://objectstorage.eu-zurich-1.oraclecloud.com/n/zrp49lohgrnl/b/DemoBucket/o/terraformfilesterraformfiles.zip" target="nofollow">
             <img 
           src="https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg" 
           alt="Deploy to Oracle Cloud"/>
