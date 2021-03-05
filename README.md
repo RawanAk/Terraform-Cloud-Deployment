@@ -6,14 +6,9 @@ terraform deploy button example
     </head>
     <body>
         all the text and instructions for the document
-[
-![Deploy to Oracle Cloud]
-(https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)
-]
-(https://cloud.oracle.com/resourcemanager/stacks/create
-?zipUrl=https://objectstorage.eu-zurich-1.oraclecloud.com/n/zrp49lohgrnl/b/DemoBucket/o/terraformfilesterraformfiles.zip)
+
   <a 
-          href="https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://objectstorage.eu-zurich-1.oraclecloud.com/n/zrp49lohgrnl/b/DemoBucket/o/terraformfilesterraformfiles.zip" target="nofollow">
+          href="https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/RawanAk/terraformDB/releases/download/v0.2-alpha/terraformfiles.zip"                   target="nofollow">
             <img 
           src="https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg" 
           alt="Deploy to Oracle Cloud"/>
