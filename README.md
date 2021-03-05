@@ -11,7 +11,7 @@ terraform deploy button example
 (https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)
 ]
 (https://cloud.oracle.com/resourcemanager/stacks/create
-?zipUrl=<https://github.com/RawanAk/terraformDB/releases/latest/download/converged-db-mkplc-freetier.zip">) 
+?zipUrl=https://github.com/RawanAk/terraformDB/releases/latest/download/converged-db-mkplc-freetier.zip") 
     <a 
             href="https://cloud.oracle.com/resourcemanager/stacks/create&zipUrl=https://github.com/RawanAk/terraformDB/releases/latest/download/converged-db-mkplc-freetier.zip" target="nofollow">
               <img 
