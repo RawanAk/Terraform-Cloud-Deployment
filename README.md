@@ -6,14 +6,14 @@ terraform deploy button example
     </head>
     <body>
         all the text and instructions for the document
-         <a 
-href="https://cloud.oracle.com/resourcemanager/stacks/create
-&zipUrl=https://github.com/RawanAk/terraformDB/releases/download/v1.2.1/converged-db-mkplc-freetier.zip" 
-target="_blank">
-  <img 
-src="https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg" 
-alt="Deploy to Oracle Cloud"/>
-</a>    
+                     <a 
+            href="https://cloud.oracle.com/resourcemanager/stacks/create
+            &zipUrl=https://github.com/RawanAk/terraformDB/releases/download/v1.2.1/converged-db-mkplc-freetier.zip" 
+            target="_blank">
+              <img 
+            src="https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg" 
+            alt="Deploy to Oracle Cloud"/>
+            </a>    
         </body>
 
 </html> 
