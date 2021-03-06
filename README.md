@@ -2,10 +2,12 @@
 terraform deploy button example
 <html>
     <head>
-        The document title and other information used by search engines.
+        My Terraform Projects on Github
     </head>
     <body>
-        all the text and instructions for the document
+       the following button will lead you to the cloud page where stack is created for infrastucture configuration 
+        
+        
 
   <a 
           href="https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/RawanAk/terraformDB/releases/download/v0.2-alpha/terraformfiles.zip"                   target="nofollow">
