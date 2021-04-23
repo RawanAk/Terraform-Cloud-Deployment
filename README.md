@@ -13,7 +13,7 @@ This image shows the Deploy to Oracle Cloud button.
 href="https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/RawanAk/terraformDB/releases/download/v0.2-alpha/terraformfilesDemo1.zip" target="_blank">
 <img
 src="https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg"
-alt=”Deploy to Oracle Cloud”/>
+alt="Deploy to Oracle Cloud"/>
  </a>
  
  </p>
